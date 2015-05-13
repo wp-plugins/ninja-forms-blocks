@@ -1,4 +1,4 @@
-=== Plugin Name ===
+=== Ninja Forms Blocks ===
 Contributors: alexusblack
 Tags: Ninja Forms, Blocks, Columns
 Requires at least: 3.0.1
